@@ -1,0 +1,6 @@
+Bot na discord monitorujący rynek kryptowalut w czasie rzeczywistym z systemem alertów opartym o zmiany procentowe
+
+features:
+- sledzenie ceny danej kryptowaluty
+- przy duzej zmianie %(np w ciagu 24h) - alert dla wybranych uzytkownikow
+- *wykres kryptowaluty
