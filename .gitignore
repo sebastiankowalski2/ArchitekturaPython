@@ -10,6 +10,9 @@ __pycache__/
 # Pliki Jupyter Notebook
 .ipynb_checkpoints/
 
+# Generowane artefakty z zestawu zaliczeniowego
+zestaw_zaliczeniowy/_workspace/
+
 # Pliki systemowe i IDE
 .DS_Store
 .vscode/
